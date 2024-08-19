@@ -1,4 +1,4 @@
-# GitHub Copilot Codeathon Challenges
+# GitHub Copilot Challenges
 
 ## Please attempt all challenges with the help of GitHub Copilot
 - Please take atleast 2 screenshots on usage of GitHub Copilot for each challenge
